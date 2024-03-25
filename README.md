@@ -7,4 +7,3 @@
 
 
 <img src="screen.gif" /
-# YEMEK

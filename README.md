@@ -6,7 +6,5 @@
 -Ekran Görüntüsü
 
 
-<img src="screen.gif" /># yemek
-# yemek
-# yemek
-# yemek
+<img src="screen.gif" /
+# YEMEK

@@ -5,7 +5,5 @@
 
 -Ekran Görüntüsü
 
-
-<img src="screen.gif" /# Yemek-listesi
-# YEMEK-CARD
-# YEMEK-CARD
+<img src="screen.gif" /
+# MENU-QR

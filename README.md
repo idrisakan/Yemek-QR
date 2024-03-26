@@ -7,4 +7,4 @@
 -Ekran Görüntüsü
 
 <img src="screen.gif" />
-# MENU-QR
+# Yemek-QR
